@@ -2,6 +2,8 @@
 
 A 100% client-side UI for the TSender contract.
 
+Runned localy, you can upload it to fleek if you want!
+
 Smart Contracts: https://github.com/Cyfrin/TSender/
 
 - [TSender UI](#tsender-ui)
